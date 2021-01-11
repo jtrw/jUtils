@@ -26,13 +26,13 @@
     },
     "autoload": {
         "psr-4": {
-            "nilBora\\Utils\\": "src"
+            "Jtrw\\Utils\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "nilBora\\Utils\\Tests\\": "tests",
-            "nilBora\\Utils\\Tests\\Resources\\": "tests/Resources"
+            "Jtrw\\Utils\\Tests\\": "tests",
+            "Jtrw\\Utils\\Tests\\Resources\\": "tests/Resources"
         }
     },
     "scripts": {
