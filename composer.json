@@ -1,5 +1,5 @@
 {
-    "name": "nil-bora/utils",
+    "name": "jtrw/jUtils",
     "type": "library",
     "description": "Utils",
     "keywords": [
@@ -7,13 +7,13 @@
         "Utils",
         "ValuesObject"
     ],
-    "homepage": "https://github.com/nilBora/Utils",
+    "homepage": "https://github.com/jtrw/jUtils",
     "license": "MIT",
     "authors": [
         {
             "name": "Nil",
             "email": "brdnlsrg@gmail.com",
-            "homepage": "https://github.com/nilBora",
+            "homepage": "https://github.com/jtrw",
             "role": "Developer"
         }
     ],
