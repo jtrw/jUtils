@@ -1,5 +1,5 @@
 {
-    "name": "jtrw/jUtils",
+    "name": "jtrw/utils",
     "type": "library",
     "description": "Utils",
     "keywords": [
@@ -7,7 +7,7 @@
         "Utils",
         "ValuesObject"
     ],
-    "homepage": "https://github.com/jtrw/jUtils",
+    "homepage": "https://github.com/jtrw/utils",
     "license": "MIT",
     "authors": [
         {
