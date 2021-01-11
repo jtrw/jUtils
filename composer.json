@@ -1,0 +1,51 @@
+{
+    "name": "nil-bora/utils",
+    "type": "library",
+    "description": "Utils",
+    "keywords": [
+        "nilBora",
+        "Utils",
+        "ValuesObject"
+    ],
+    "homepage": "https://github.com/nilBora/Utils",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nil",
+            "email": "brdnlsrg@gmail.com",
+            "homepage": "https://github.com/nilBora",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : "~7.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : ">=8.0",
+        "squizlabs/php_codesniffer": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "nilBora\\Utils\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "nilBora\\Utils\\Tests\\": "tests",
+            "nilBora\\Utils\\Tests\\Resources\\": "tests/Resources"
+        }
+    },
+    "scripts": {
+        "test": "phpunit",
+        "check-style": "phpcs src tests",
+        "fix-style": "phpcbf src tests"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
