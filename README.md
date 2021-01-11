@@ -14,13 +14,13 @@ Utils for help Dev
 Via Composer
 
 ``` bash
-$ composer require nil-bora/utils
+$ composer require jtrw/utils
 ```
 
 ## Usage ValuesObject
 
 ```php
-use nilBora\Utils\ValuesObject;
+use Jtrw\Utils\ValuesObject;
 
 class UserValuesObject extends ValuesObject
 {

@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace nilBora\Utils\Test\Resources;
+namespace Jtrw\Utils\Test\Resources;
 
-use nilBora\Utils\ValuesObject;
+use Jtrw\Utils\ValuesObject;
 
 class TestValuesObject extends ValuesObject
 {

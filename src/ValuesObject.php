@@ -1,8 +1,8 @@
 <?php
 
-namespace nilBora\Utils;
+namespace Jtrw\Utils;
 
-use nilBora\Utils\Exceptions\ValuesObjectException;
+use Jtrw\Utils\Exceptions\ValuesObjectException;
 
 /**
  * Class ValuesObject

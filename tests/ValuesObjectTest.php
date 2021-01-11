@@ -2,15 +2,15 @@
 
 declare(strict_types=1);
 
-namespace nilBora\Utils\Test;
+namespace Jtrw\Utils\Test;
 
 include_once "Resources/TestValuesObject.php";
 
 //use nilBora\Utils\ValuesObject;
 
-use nilBora\Utils\Exceptions\ValuesObjectException;
-use nilBora\Utils\Test\Resources\TestValuesObject;
-use nilBora\Utils\ValuesObject;
+use Jtrw\Utils\Exceptions\ValuesObjectException;
+use Jtrw\Utils\Test\Resources\TestValuesObject;
+use Jtrw\Utils\ValuesObject;
 
 class ValuesObjectTest extends \PHPUnit\Framework\TestCase
 {

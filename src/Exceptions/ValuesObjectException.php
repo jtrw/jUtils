@@ -1,5 +1,5 @@
 <?php
-namespace nilBora\Utils\Exceptions;
+namespace Jtrw\Utils\Exceptions;
 
 class ValuesObjectException extends \Exception
 {

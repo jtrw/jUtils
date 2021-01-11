@@ -1,5 +1,5 @@
 <?php
-namespace nilBora\Utils;
+namespace Jtrw\Utils;
 
 class Guid
 {
