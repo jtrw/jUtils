@@ -1,5 +1,7 @@
 # Utils 
 
+[![Phpunit](https://github.com/jtrw/utils/workflows/PHP%20Composer/badge.svg)](https://github.com/jtrw/utils/actions)
+
 Utils for help Dev
 
 ## Structure Utils
